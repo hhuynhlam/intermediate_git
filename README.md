@@ -15,6 +15,7 @@ git pull --rebase
 
 .gitconfig
 
+Git Commit Messages
 
 Don't:
 1. Put everything in one commit.
