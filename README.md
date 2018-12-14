@@ -17,6 +17,10 @@ git pull --rebase
 
 Git Commit Messages
 
+
+release workflow + fixes + new develop + conflicts
+hotfix workflow + conflicts
+
 Don't:
 1. Put everything in one commit.
 1. Write incomplete commit messages. (unless rewrite)
