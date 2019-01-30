@@ -1,12 +1,6 @@
 # Intermediate GIT
 
 ## Topics
-- HEAD
-- Merge Bubble
-- Private Branch
-- Public Branch
-- Squashing
-
 - git pull --rebase
 - git diff
 - git reset --hard
