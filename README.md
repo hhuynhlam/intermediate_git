@@ -1,14 +1,12 @@
-# Intermediate GIT
-
-## Topics
-- git pull --rebase
-- git diff
-- git reset --hard
-- git cherry-pick
-- git rebase
-- git reflog
-- git gc
-- git bisect
+## Common Useful Commands
+- [git pull --rebase](https://www.atlassian.com/git/tutorials/syncing/git-pull)
+- [git diff](https://www.atlassian.com/git/tutorials/saving-changes/git-diff)
+- [git reset --hard](https://git-scm.com/docs/git-reset#git-reset---hard)
+- [git cherry-pick](https://git-scm.com/docs/git-cherry-pick)
+- [git rebase](https://www.atlassian.com/git/tutorials/rewriting-history/git-rebase)
+- [git reflog](https://www.atlassian.com/git/tutorials/rewriting-history/git-reflog)
+- [git gc](https://git-scm.com/docs/git-gc)
+- [git bisect](https://hackernoon.com/understanding-git-bisect-i-e-use-binary-search-to-find-the-change-that-introduced-a-bug-89489b4c9fa6)
 
 ## Tips
 ### Don't:
@@ -25,5 +23,5 @@
 1. Curate your commit history.
 
 ### Further Reading
-1. Linear Git History
+1. [Keeping a Linear Git History](http://www.bitsnbites.eu/a-tidy-linear-git-history/)
 1. [Graph Theory](http://think-like-a-git.net/)
